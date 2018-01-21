@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cx.yeah.bilibili.unicom" >
+    <application
+        android:allowBackup="true"
+        android:label="BiliUnicom">
+		<meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="哔哩联通免流，适用于哔哩哔哩粉/蓝/国际版，coolapk@webin" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="30" />
+    </application>
+</manifest>

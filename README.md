@@ -1,2 +1,3 @@
 # BiliUnicom
-all for free~all for free~
+原理:
+APP启动时替换unicom.db
